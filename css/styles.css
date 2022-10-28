@@ -11,7 +11,15 @@ body {
     margin : auto;
     padding : 32px;
     width : 600px;
+    font-family: sans-serif ;
 }
 :root{
     background-color: #eeeeee;
+}
+p  {
+    text-align: justify;
+}
+span{
+    color: #007bff;
+    font-style: italic;
 }
