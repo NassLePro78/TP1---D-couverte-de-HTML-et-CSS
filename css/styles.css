@@ -6,3 +6,12 @@ table, td, th {
 h1 {
     text-align: center;
 }
+body {
+    background-color: white; 
+    margin : auto;
+    padding : 32px;
+    width : 600px;
+}
+:root{
+    background-color: #eeeeee;
+}
