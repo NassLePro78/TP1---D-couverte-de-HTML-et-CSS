@@ -46,4 +46,8 @@ table{
 }
 img{
     margin:auto;
+    display:block;
+}
+.description{
+    text-align: center;
 }
